@@ -20,6 +20,6 @@ FontBld = Sofia Sans Semi Condensed Bold
 
 The weather icon used in the theme is Weather Or Not Outlines, which can be downloaded from [here](https://drive.google.com/drive/folders/1SDfeAWcp-qagMtuHrtMyrwqPETvu_M9L) and installed in your /kustom/icons folder.
 
-Set the background to your own wallpaper image if you want. Also set the Wallpaper Blurred image to the same image. I would suggest something darker and or not too busy.
+Set the BG Global Variable to a wallpaper image that you want. I would suggest something darker and or not too busy.
 
 I use ES-DE for my launcher so I put emphasis on that as the first icon. Feel free to edit it to your chosen launcher. Touch the game controller app icon to open the emulator apps section. You can customize the order you want in the Emulation Apps Group > Stack Group.
