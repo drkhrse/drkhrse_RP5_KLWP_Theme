@@ -24,3 +24,4 @@ The weather icon used in the theme is Weather Or Not Outlines, which can be down
 Set the BG Global Variable to a wallpaper image that you want. I would suggest something darker and or not too busy.
 
 I use ES-DE for my launcher so I put emphasis on that as the first icon. Feel free to edit it to your chosen launcher. Touch the game controller app icon to open the emulator apps section. You can customize the order you want in the Emulation Apps Group > Stack Group.
+I used a blank widget made with KWGT to keep any apps off the first screen. Normally you have to have at least one app or widget on the screen with teh default launcher.
