@@ -1,5 +1,5 @@
 # Retroid Pocket 5 KLWP Theme
-This a KWLP theme that I built for my Retroid Pocket 5. Will require KLWP Pro to import.
+This a KWLP theme that I built for my Retroid Pocket 5. Will require KLWP Pro to import. There are plenty of Global Varibles in the theme to customize the fonts and colors of many of the UI elements.
 
 ![Screenshot](/screenshots/screen1.png)
 
@@ -20,6 +20,6 @@ FontBld = Sofia Sans Semi Condensed Bold
 
 The weather icon used in the theme is Weather Or Not Outlines, which can be downloaded from [here](https://drive.google.com/drive/folders/1SDfeAWcp-qagMtuHrtMyrwqPETvu_M9L) and installed in your /kustom/icons folder.
 
-Set the background to your own wallpaper image if you want. Also set the Wallpaper Blurred image to the same image.
+Set the background to your own wallpaper image if you want. Also set the Wallpaper Blurred image to the same image. I would suggest something darker and or not too busy.
 
 I use ES-DE for my launcher so I put emphasis on that as the first icon. Feel free to edit it to your chosen launcher. Touch the game controller app icon to open the emulator apps section. You can customize the order you want in the Emulation Apps Group > Stack Group.
