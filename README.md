@@ -6,7 +6,7 @@ This a KWLP theme that I built for my Retroid Pocket 5. Will require KLWP Pro to
 
 Put the included files into your /kustom folder on you device.
 
-Set the SDPath Global Variable to your SD card path
+Set the SDPath Global Variable to your SD card path for the SD Card space statistics.
 `SDPath = /storage/####-####`
 
 I utilized the Sofia Sans Semi Condensed in the theme. Download the ttf files and put into the /kustom/fonts folder
